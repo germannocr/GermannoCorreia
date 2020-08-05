@@ -12,5 +12,5 @@ Atualmente sou um Backend Developer mas estudando para virar um FullStack :compu
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox (e um pouco de python também :D)
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JS, Bootstrap e Python.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, seriados e filmes. Também amo ler e escrever sobre o que aprendo. 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://platform.linkedin.com/badges/js/profile.js)](https://www.linkedin.com/in/germannocr/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/germannocr/) 
 | 

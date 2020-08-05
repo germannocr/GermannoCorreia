@@ -12,5 +12,5 @@ Atualmente sou um Backend Developer mas estudando para virar um FullStack :compu
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox (e um pouco de python também :D)
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JS, Bootstrap e Python.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, seriados e filmes. Também amo ler e escrever sobre o que aprendo. 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germannocr/)](https://www.linkedin.com/in/germannocr/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://image.flaticon.com/icons/svg/174/174857.svg)](https://www.linkedin.com/in/germannocr/) 
 | 

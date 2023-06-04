@@ -1,14 +1,11 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 
 # Germanno Correia
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Atualmente sou Engenheiro de Software, atuando como Fullstack Developer na Intmed Software.   :computer:
+## A short summary about me 👋
+I am passionate about solving problems using programming.
+I am currently a Software Engineer, working as a Fullstack Developer at Trustly, Inc. a payments company serving US and Europe.   :computer:
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular e Django, que são meus focos de aprendizado no momento.
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox (e um pouco de python e Django também :D)
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, JS, Bootstrap e Angular no front e Python, SQLAlchemy, Flask, Django e um pouco de NodeJS no back.
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologia, games, seriados e filmes. Também amo ler e escrever sobre o que aprendo. 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/germannocr/) 
+ <br/> :purple_heart: &nbsp; Looking to collaborate with projects using backend languages, mainly Python and mostly Java, which has been my learning focus at the moment.
+ <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox (and a little python and Django too :D)
+ <br/> :computer: &nbsp; My stack fluctuates between these technologies: HTML, CSS, JS, Bootstrap and Angular on the Frontend and Python, Java, SQLAlchemy, Flask, Django and some NodeJS on the Backend. In general I learn very fast and I'm proactive in solving problems.
+ <br/> :email: &nbsp; My contact channels are: [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/germannocr/) 
